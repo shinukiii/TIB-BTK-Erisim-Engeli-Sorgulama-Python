@@ -29,7 +29,7 @@ Otomasyon **7/24 kesintisiz** döngüde çalışacak şekilde tasarlanmıştır.
 ## 📂 Dosya Yapısı
 
     /
-    ├── btknew.py          # Python bot dosyası (asıl kod)
+    ├── tib.py          # Python bot dosyası (asıl kod)
     ├── links.txt          # Kontrol edilecek domain listesi
     └── README.md
 
